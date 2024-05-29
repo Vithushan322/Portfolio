@@ -13,6 +13,8 @@ import { FooterComponent } from './components/footer/footer.component';
 import { SharedModule } from './modules/shared/shared.module';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { HttpClientModule } from '@angular/common/http';
+import { ExperienceCardComponent } from './components/experience/experience-card/experience-card.component';
+import { EducationCardComponent } from './components/education/education-card/education-card.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { HttpClientModule } from '@angular/common/http';
     SkillsComponent,
     ExperienceComponent,
     EducationComponent,
-    FooterComponent
+    FooterComponent,
+    ExperienceCardComponent,
+    EducationCardComponent
   ],
   imports: [
     BrowserModule,

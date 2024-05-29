@@ -1,0 +1,26 @@
+[
+  {
+    "duration": "Jan 2021 - Apr 2023",
+    "company": "Unicom SD",
+    "title": "Senior Software Engineer",
+    "description": "Developed a venue management web application using SVG and D3.js for graphical editing. Improved a corporate booking app's codebase, increasing functionality by 15%. Provided technical guidance and mentoring to junior developers"
+  },
+  {
+    "duration": "Nov 2018 - Dec 2020",
+    "company": "Unicom SD",
+    "title": "Software Engineer",
+    "description": "Led development of a content management app for building web page layouts. Designed system architecture with Angular Dynamic component loader. Enhanced an existing project’s architecture, code, and UI/UX, boosting performance by 13% and user count by 11%."
+  },
+  {
+    "duration": "Jul 2018 - Oct 2018",
+    "company": "Unicom SD",
+    "title": "Associate Software Engineer",
+    "description": "Designed and developed a responsive hierarchical calendar with advanced features for the Olympic Games 2024 event booking. Implemented session management with cookies and utilized a CI/CD pipeline. Ensured reliability with timely bug fixes."
+  },
+  {
+    "duration": "May 2015 - May 2016",
+    "company": "Virtusa",
+    "title": "Intern Software Engineer",
+    "description": "Developed a real-time chat interface in Java using the JADE framework to augment communication among Quality Assurance (QA) team members as part of an automated testing framework."
+  }
+]

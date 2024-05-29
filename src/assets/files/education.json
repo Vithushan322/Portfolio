@@ -1,0 +1,23 @@
+[
+  {
+    "duration": "Jan 2024 - Jun 2024",
+    "degree": "Diploma",
+    "major": "Full Stack .NET Cloud Development",
+    "university": "Humber College",
+    "description": "Completed a comprehensive program focused on full stack development and cloud technologies using .NET. Developed skills in frontend and backend development, cloud services, and DevOps practices."
+  },
+  {
+    "duration": "Sep 2012 - May 2017",
+    "degree": "B.Eng",
+    "major": "Software Engineering",
+    "university": "University of Westminster",
+    "description": "Earned a Bachelor's degree in Software Engineering from the University of Westminster. Explored programming languages, software design, and project management. Completed projects including a capstone focused on scalable web applications."
+  },
+  {
+    "duration": "Sep 2011 - May 2012",
+    "degree": "Diploma",
+    "major": "Information Technology",
+    "university": "Informatics Institute of Technology (IIT)",
+    "description": "Obtained a Diploma in Information Technology from the Informatics Institute of Technology (IIT) within the academic year spanning from September 2011 to May 2012."
+  }
+]

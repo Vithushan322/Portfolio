@@ -1,14 +1,6 @@
-<div class="experience-container mt-5">
-    <h2>Work Experience</h2>
-    <div class="experience">
-        <h3>Front End Developer</h3>
-        <p>CREATIVEIM, March 2016 - Present</p>
-        <p>Lorem ipsum dolor sit amet...</p>
+<div class="experience-container box-shadow mt-5 p-3">
+    <h3>Work Experience</h3>
+    <div *ngFor="let exp of experience">
+        <experience-card [experience]="exp"></experience-card>
     </div>
-    <div class="experience">
-        <h3>Web Developer</h3>
-        <p>WEBNOTE, April 2014 - March 2016</p>
-        <p>Lorem ipsum dolor sit amet...</p>
-    </div>
-    <!-- Add other experiences similarly -->
 </div>
