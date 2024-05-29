@@ -1,0 +1,28 @@
+.header-content {
+    // background: url('assets/header-bg.jpg') no-repeat center center;
+    background-color: black;
+    background-size: cover;
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    margin: 20px 0 10px;
+}
+
+h2 {
+    margin: 0 0 20px;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+}
