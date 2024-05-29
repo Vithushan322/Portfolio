@@ -1,12 +1,14 @@
-<div class="header-content mt-5">
-    <!-- <img src="/assets/Vithushan.jpg" alt="Profile Picture"> -->
-    <img [src]="'/assets/Vithushan.png'">
+<div class="header-content">
+    <div class="profile-pic">
+        <img [src]="'/assets/images/Vithushan.jpg'" alt="Profile picture">
+    </div>
     <h1>Vithushan Navanathan</h1>
-    <h2>Full-stack Software Developer</h2>
+    <h3>Full-stack Software Developer</h3>
     <div class="social-icons">
-        <a href="#"><i class="fa fa-facebook"></i></a>
-        <a href="#"><i class="fa fa-twitter"></i></a>
-        <a href="#"><i class="fa fa-google-plus"></i></a>
-        <a href="#"><i class="fa fa-linkedin"></i></a>
+        <i class="fa-brands fa-linkedin"></i>
+        <a href="https://www.linkedin.com/in/vithushan-navanathan/"><fa-icon [icon]="faLinkedin"> </fa-icon></a>
+        <a href="https://github.com/Vithushan322"><fa-icon [icon]="faGithub"> </fa-icon></a>
+        <a href="https://www.instagram.com/vithushan.n"><fa-icon [icon]="faInstagram"> </fa-icon></a>
+        <a href="assets/files/Vithushan Resume.pdf" download><fa-icon [icon]="faDownload"> </fa-icon></a>
     </div>
 </div>

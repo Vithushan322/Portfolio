@@ -1,0 +1,38 @@
+[
+    {
+        "language": "TypeScript",
+        "path": "assets/images/language-imgs/ts.png"
+    },
+    {
+        "language": "JavaScript",
+        "path": "assets/images/language-imgs/js.png"
+    },
+    {
+        "language": "Angular",
+        "path": "assets/images/language-imgs/ng.png"
+    },
+    {
+        "language": "C#",
+        "path": "assets/images/language-imgs/csharp.png"
+    },
+    {
+        "language": ".NET",
+        "path": "assets/images/language-imgs/net.png"
+    },
+    {
+        "language": "SQL",
+        "path": "assets/images/language-imgs/sql.png"
+    },
+    {
+        "language": "HTML",
+        "path": "assets/images/language-imgs/html.png"
+    },
+    {
+        "language": "CSS",
+        "path": "assets/images/language-imgs/css.png"
+    },
+    {
+        "language": "Java",
+        "path": "assets/images/language-imgs/java.png"
+    }
+]

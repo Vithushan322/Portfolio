@@ -11,6 +11,8 @@ import { EducationComponent } from './components/education/education.component';
 import { FooterComponent } from './components/footer/footer.component';
 
 import { SharedModule } from './modules/shared/shared.module';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { SharedModule } from './modules/shared/shared.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SharedModule
+    HttpClientModule,
+    SharedModule, 
+    FontAwesomeModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
